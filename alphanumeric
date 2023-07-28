@@ -1,0 +1,9 @@
+<x>
+INITIALIZE x-Internet = 128+/-:13;
+Base_URL = F1;
+Base_URL_TYPE = SIMPLE;
+Base_URL_PROTOCOL = +26*NIGERIA;
+BIG_DATA_TYPE = ALPHANUMERIC; 
+CONTENT = DEO GRATIAS;
+OUTPUT = *a8*b8*d7/*d8*g7*f1*a6*f8*f1*h7;
+</x>
